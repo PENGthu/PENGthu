@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PENGthu from Weiyang, Tsinghua
 - 👀 My Steam account ID is: ganyu
 - 🌱 I’m currently learning: Python, C#, Frontend(Vue3, etc...), DSA, ml,...
-- 💞️ gxf
 - 📫 You may like to contact me via: wjp21@mails.tsinghua.edu.cn or ecor1p@outlook.com
 
 <!---
