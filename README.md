@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PENGthu from Weiyang, Tsinghua
-- 🌱 I’m currently learning: Python, C#, Frontend(Vue3, etc...), DSA, DL...
+- 👋 Hi, I’m @PENGthu from Tsinghua Univ.
+- 🌱 I’m currently learning: DSA, CV
 - 📫 Reach me: wangjp20200913@gmail.com
 
 <!---
