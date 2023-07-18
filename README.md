@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PENGthu from Weiyang, Tsinghua
 - 🌱 I’m currently learning: Python, C#, Frontend(Vue3, etc...), DSA, DL...
-- 📫 You may like to contact me via: wjp21@mails.tsinghua.edu.cn or ecor1p@outlook.com
+- 📫 Reach me: wangjp20200913@gmail.com
 
 <!---
 PENGthu/PENGthu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
